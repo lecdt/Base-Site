@@ -1,5 +1,5 @@
 
-<img src="https://arquivos.lecdt.com/lecdt/favicon/apple-touch-icon-120x120.png" min-width="300px" max-width="300px" width="300px" align="right" alt="LECDT">
+<img src="https://arquivos.lecdt.com/lecdt/favicon/apple-touch-icon-120x120.png" min-width="150px" max-width="150px" width="150px" align="right" alt="LECDT">
 
 <p align="left"> 
   Essa é a base para construção de um site que usa</br>
@@ -15,12 +15,12 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="site">
+  <a href="https://lecdt.com" alt="site">
   <img src="https://img.shields.io/badge/-Site-0000FF?style=flat-square&labelColor=FFFFFF&logo=Cachet&logoColor=0000FF&link=https://lecdt.com" /></a>
 
-  <a href="#" alt="youtube">
+  <a href="https://youtube.com/c/eduardolecdt" alt="youtube">
   <img src="https://img.shields.io/badge/-Youtube-0000FF?style=flat-square&labelColor=FFFFFF&logo=youtube&logoColor=0000FF&link=https://youtube.com/c/eduardolecdt"/></a>
 
-  <a href="#" alt="instagram">
+  <a href="https://instagram.com/eduardolecdt" alt="instagram">
   <img src="https://img.shields.io/badge/-Instagram-0000FF?style=flat-square&labelColor=FFFFFF&logo=instagram&logoColor=0000FF&link=https://instagram.com/eduardolecdt"/></a>
 </p>  
